@@ -42,7 +42,7 @@ include 'navbar.php';
                         </div>
                     </div>
                 </div>
-                <!-- Single slider item -->
+                <!-- Single slider item ---->
                 <div class="hero-slide-item slider-height swiper-slide d-flex bg-color1">
                     <!-- data-bg-image="assets/images/slider-image/slider-bg-1.jpg"> -->
                     <div class="container align-self-center">
